@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "12345",
+      "name": "TSHIRT A BASIC",
+      "qty": 5,
+      "price": 10,
+      "currency": "EUR"
+    },
+    {
+      "id": "23442",
+      "name": "TSHIRT NICE ONE",
+      "qty": 10,
+      "price": 55,
+      "currency": "EUR"
+    },
+    {
+      "id": "23401",
+      "name": "TSHIRT MAKE ME GREAT",
+      "qty": 12,
+      "price": 2,
+      "currency": "EUR"
+    }
+  ]
+}
